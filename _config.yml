@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 0-the-basics.md
+  - 1-data-script-and-environment-management.md
+  - 2-alignment.md
+  - 3-secondary-analysis.md
+  - 4-visualization.md
