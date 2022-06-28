@@ -51,3 +51,5 @@ Download [fastQC](https://www.bioinformatics.babraham.ac.uk/projects/download.ht
 
 ## 4. 10X Genomics cloud analysis
 Register an account at: https://cloud.10xgenomics.com/signin
+
+[Next >>](3-secondary-analysis.md)  
