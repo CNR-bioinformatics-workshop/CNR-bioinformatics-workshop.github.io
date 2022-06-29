@@ -1,5 +1,6 @@
-## CNR Bioinformatics Workshop
-This is a curriculum of a practical introduction workshop to bioinformatics analysis.  
+# CNR Bioinformatics Workshop
+This is a curriculum of a practical introduction workshop to bioinformatics analysis.   
+   
 This workshop is an very general and very basic introduction to tools and practices of bioinformatics analyses, focusing on RNAseq and single cell RNAseq. It is designed for an audience with limited to no bioinformatics or coding experience and hopefully will help them overcome the innate fear of the command line. Since all the contents as of now are derived exclusively from my own personal experience, I cannot claim them to be the most common, most efficient or best practices, but they got the jobs done for me when I, a neuroscientist with no formal training, needed. Once again, the goal isn't to provide a rigorous guide of standard practices but rather helping those who are in need to kick the can down the road.  
 
 ## Prerequisite
@@ -8,19 +9,20 @@ Miniconda: https://docs.conda.io/en/latest/miniconda.html
 #### Miniconda installation  
 Refer to the [installation](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) page for detail.
    * On Windows:  
-   Download installer from [here](https://docs.conda.io/en/latest/miniconda.html)
+   Download installer from [here](https://docs.conda.io/en/latest/miniconda.html)  
+      
    * On Mac or Linux:  
    Check [here](https://docs.conda.io/en/latest/miniconda.html)   
    Download installer with wget and install with bash:    
 
 Mac
    ```
-   wget Miniconda3-latest-MacOSX-x86_64.sh
+   wget link/to/Miniconda3-latest-MacOSX-x86_64.sh
    bash Miniconda3-latest-MacOSX-x86_64.sh
    ```
    Linux
    ```
-   wget Miniconda3-latest-Linux-x86_64.sh
+   wget link/to/Miniconda3-latest-Linux-x86_64.sh
    bash Miniconda3-latest-Linux-x86_64.sh
    ``` 
    Follow prompts and finish the installation
