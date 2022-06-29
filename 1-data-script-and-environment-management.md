@@ -1,4 +1,5 @@
 [Back to curriculum](README.md)
+# CNR Bioinformatics Workshop
 
 ## 1. Package management
 A few to many softwares need to be installed in order to accomplish any and every bioinformatics analysis task. If managed manually, it will quickly become messy and tedious, due to dependency and conflict issues between softwares. A software (aka library, aka package, aka module) management...software helps automating the process, and thus removing the headache.  
