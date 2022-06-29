@@ -46,4 +46,4 @@ conda install -c bioconda sra-tools
 1. Git
 2. github
 
-[Next >>](2-alignment.md)  
+[<< Previous](0-the-basics.md)  [Next >>](2-alignment.md)  
