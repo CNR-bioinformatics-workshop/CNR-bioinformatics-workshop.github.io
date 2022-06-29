@@ -2,13 +2,13 @@
 
 # 0. The Basics
 ## The Mighty CMD
-The command line interface is your friend, not your enemy. Even though it may feel unnatural and awkward to use at first, once you get use to it, you will be amazed at the versatility and power.  
-![CMD](images/cmd.png)  
+The command line interface may feel unnatural and awkward to use at first, but once you get use to it, you will be amazed at the versatility and power.  
+     
 ### The most basic commands:
 **mkdir**: make a new directory ("folder");  
 **cd**: navigate between directories;  
 **ls**: list contents of a directory;  
-![CMD](images/mkdir_cd_ls.png)  
+ 
 Let's give these a try:
 
 ```
