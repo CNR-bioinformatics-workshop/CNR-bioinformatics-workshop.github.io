@@ -102,22 +102,6 @@ df0
 MTs <- grep("^MT-", rownames(df0), value = T)
 ```
 
-
-```R
-MTs
-```
-
-
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
-<ol class=list-inline><li>'MT-ND1'</li><li>'MT-ND2'</li><li>'MT-CO1'</li><li>'MT-CO2'</li><li>'MT-ATP8'</li><li>'MT-ATP6'</li><li>'MT-CO3'</li><li>'MT-ND3'</li><li>'MT-ND4L'</li><li>'MT-ND4'</li><li>'MT-ND5'</li><li>'MT-ND6'</li><li>'MT-CYB'</li></ol>
-
-
-
-
 ```R
 df0 <- df0[!(rownames(df0) %in% MTs)]
 ```
