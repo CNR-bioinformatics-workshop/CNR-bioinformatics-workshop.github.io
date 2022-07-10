@@ -27,6 +27,9 @@ Mac
    ``` 
    Follow prompts and finish the installation
 
+#### Required files
+https://www.dropbox.com/sh/s9ylxo4jmwta9yu/AABiCtc3SXlVPynQXhNlNTyBa?dl=0
+
 ## Topics
 [0. The basics](0-the-basics.md)  
 1. The Mighty CMD: command line interface  
