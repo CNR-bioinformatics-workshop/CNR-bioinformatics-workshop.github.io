@@ -705,6 +705,6 @@ cerebroApp::launchCerebro()
     Warning message:
     "`autoHideNavigation` only works with DT client mode and it will be ignored"
     
-![CerebroApp](images/cerebroapp.png)
+![CerebroApp](images/cerebroAPP.PNG)
 
 [<< Previous](3-secondary-analysis.md)
