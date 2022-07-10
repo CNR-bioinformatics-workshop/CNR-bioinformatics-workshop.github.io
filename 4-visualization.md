@@ -469,22 +469,6 @@ gene <- DEX %>%
     [1m[22mAdding missing grouping variables: `cluster`
     
 
-
-```R
-gene$gene
-```
-
-
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
-<ol class=list-inline><li>'THSD7A'</li><li>'CSRP2'</li><li>'SOX2'</li><li>'CKB'</li><li>'MEF2C'</li><li>'MKI67'</li><li>'EDNRB'</li><li>'EOMES'</li></ol>
-
-
-
-
 ```R
 data.to.plot <- as.data.frame(t(as.matrix(df0@assays$RNA@data[gene$gene,])))
 ```
