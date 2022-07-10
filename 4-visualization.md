@@ -119,7 +119,7 @@ do.call(gridExtra::grid.arrange, c(plist, ncol = 2))
 
 
     
-![png](output_18_0.png)
+![png](images/output_18_0.png)
     
 
 
@@ -160,7 +160,7 @@ ggplot(DEX, aes(x = avg_log2FC, y = -log10(p_val_adj))) +
 
 
     
-![png](output_23_0.png)
+![png](images/output_23_0.png)
     
 
 
@@ -176,7 +176,7 @@ ggplot(DEX, aes(x = avg_log2FC, y = -log10(p_val_adj))) +
 
 
     
-![png](output_25_0.png)
+![png](images/output_25_0.png)
     
 
 
@@ -193,7 +193,7 @@ ggplot(DEX, aes(x = avg_log2FC, y = -log10(p_val_adj))) +
 
 
     
-![png](output_27_0.png)
+![png](images/output_27_0.png)
     
 
 
@@ -212,7 +212,7 @@ ggplot() +
 
 
     
-![png](output_29_0.png)
+![png](images/output_29_0.png)
     
 
 
@@ -234,7 +234,7 @@ ggplot() +
 
 
     
-![png](output_31_0.png)
+![png](images/output_31_0.png)
     
 
 
@@ -327,7 +327,7 @@ ggplot(data.to.plot2, aes(x = variable, y = value)) +
 
 
     
-![png](output_39_0.png)
+![png](images/output_39_0.png)
     
 
 
@@ -343,7 +343,7 @@ ggplot(data.to.plot2, aes(x = cluster, y = value)) +
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -359,7 +359,7 @@ ggplot(data.to.plot2, aes(x = cluster, y = value)) +
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
@@ -375,7 +375,7 @@ ggplot(data.to.plot2, aes(x = cluster, y = value, fill = cluster)) +
 
 
     
-![png](output_45_0.png)
+![png](images/output_45_0.png)
     
 
 
@@ -392,7 +392,7 @@ ggplot(data.to.plot2, aes(x = cluster, y = value, fill = cluster)) +
 
 
     
-![png](output_47_0.png)
+![png](images/output_47_0.png)
     
 
 
@@ -510,7 +510,7 @@ ggplot(data.to.plot2, aes(x = cluster, y = value, fill = cluster)) +
 
 
     
-![png](output_56_0.png)
+![png](images/output_56_0.png)
     
 
 
