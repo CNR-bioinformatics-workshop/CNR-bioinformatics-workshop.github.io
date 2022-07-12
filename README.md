@@ -3,7 +3,7 @@ This is a curriculum of a practical introduction workshop to bioinformatics anal
    
 This workshop is an very general and very basic introduction to tools and practices of bioinformatics analyses, focusing on RNAseq and single cell RNAseq. It is designed for an audience with limited to no bioinformatics or coding experience and hopefully will help them overcome the innate fear of the command line. Since all the contents as of now are derived exclusively from my own personal experience, I cannot claim them to be the most common, most efficient or best practices, but they got the jobs done for me when I, a neuroscientist with no formal training in computer science, needed. Once again, the goal isn't to provide a rigorous guide of standard practices but rather helping those who are in need to kick the can down the road.  
 
--Zhen Li
+-Zhen Li [![img](https://img.icons8.com/color/18/000000/twitter--v1.png)](https://twitter.com/ZhenLi99325504) [![img](https://img.icons8.com/sf-black-filled/18/000000/github.png)](https://github.com/macros29)
 
 ## Prerequisite
 Miniconda: https://docs.conda.io/en/latest/miniconda.html
