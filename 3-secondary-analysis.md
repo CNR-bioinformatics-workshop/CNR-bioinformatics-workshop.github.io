@@ -187,7 +187,7 @@ ElbowPlot(df0, ndims = 50)
 
 
     
-![png](images/output_27_0.png)
+![png](images/elbow.png)
     
 
 
@@ -485,7 +485,7 @@ write.csv(DEX, "DEX.csv")
 
 
 ```R
-saveRDS(df0)
+saveRDS(df0, file = "df0.rds")
 ```
 
 
