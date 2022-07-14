@@ -29,7 +29,7 @@ Mac
    ``` 
    Follow prompts and finish the installation
 
-#### Required files
+#### Required files and recording of workshop
 https://www.dropbox.com/sh/s9ylxo4jmwta9yu/AABiCtc3SXlVPynQXhNlNTyBa?dl=0
 
 ## Topics
